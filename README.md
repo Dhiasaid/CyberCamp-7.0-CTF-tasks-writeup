@@ -1,4 +1,4 @@
-![CyberCamp 7.0 — iOS Reversing Writeups](banner.png)
+![CyberCamp 7.0 — iOS Reversing Writeups](banner.jpg)
 
 # CyberCamp 7.0 — iOS Reversing Writeups
 
