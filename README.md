@@ -1,3 +1,5 @@
+![CyberCamp 7.0 — iOS Reversing Writeups](banner.png)
+
 # CyberCamp 7.0 — iOS Reversing Writeups
 
 CyberCamp, now in its 7th edition, took place on the 14th and 15th of
@@ -67,4 +69,4 @@ work through the challenges themselves first.
 ---
 
 Shoutout to the CyberCamp organizers and challenge authors for a genuinely
-fun set of iOS challenges — looking forward to the next edition.# CyberCamp-7.0-CTF-tasks-writeup
+fun set of iOS challenges — looking forward to the next edition.
